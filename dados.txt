@@ -1,0 +1,4 @@
+carros
+Marca do carro: Toyota,2010,Modelo do carro : 2,200.0,4
+motos
+ Marca da moto: Honda ,2026, Modelo da moto : 44444 ,120000.0,1000
